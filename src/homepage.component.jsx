@@ -9,6 +9,7 @@ const HomePage = () => (
                 <div className='content'>
                     <h1 className='title'>HATS</h1>
                     <span className='subtitle'>SHOP NOW</span>
+                    <p>Hola</p>
                 </div>
             </div>
             <div className='menu-item'>
